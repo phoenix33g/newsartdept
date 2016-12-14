@@ -4,21 +4,10 @@
 
 body {
   /*background-color: #48D1CC;*/
-  background: #48D1CC;
-  /* Old browsers*/ 
-  background: -moz-linear-gradient(45deg, #F5FFFA 0%, #48D1CC 100%);
-  /* FF3.6-15*/ 
-  background: -webkit-linear-gradient(45deg, #F5FFFA 0%, #48D1CC 100%);
-  /* Chrome10-25,Safari5.1-6*/
-  background: linear-gradient(45deg, #F5FFFA 0%, #48D1CC 100%);
-  font-family: 'Roboto Slab', serif;
+   background-image: url(http://media.web.britannica.com/eb-media/42/95642-004-D6B2D947.jpg);
 }
 
 /** Header styles **/
-
-.header {
-  background-image: url(http://media.web.britannica.com/eb-media/42/95642-004-D6B2D947.jpg);
-}
 
 h1 {
   color: MintCream;
