@@ -31,9 +31,9 @@ function makeApiCall() {
 }
 
 function initClient() {
-  var API_KEY = 'AIzaSyCYw3dtvdpaX390d7BAhU5GE_eL2TLnlMs';  // TODO: Update placeholder with desired API key.
+  var API_KEY = '';  // TODO: Update placeholder with desired API key.
 
-  var CLIENT_ID = '685020186966-2dkqgqcnkfgc42hhro216r579795nnjk.apps.googleusercontent.com';  // TODO: Update placeholder with desired client ID.
+  var CLIENT_ID = '.apps.googleusercontent.com';  // TODO: Update placeholder with desired client ID.
 
   // TODO: Authorize using one of the following scopes:
   //   'https://www.googleapis.com/auth/drive'
