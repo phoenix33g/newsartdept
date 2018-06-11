@@ -17,7 +17,7 @@ function makeApiCall() {
     // How dates, times, and durations should be represented in the output.
     // This is ignored if value_render_option is
     // FORMATTED_VALUE.
-    // The default dateTime render option is [DateTimeRenderOption.SERIAL_NUMBER].
+    // The default dateTime render option is [DateTimeRenderOption.SERIAL_NUMBER]..
     //dateTimeRenderOption: '',  // TODO: Update placeholder value.
   };
 
