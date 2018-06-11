@@ -31,7 +31,7 @@ function makeApiCall() {
 }
 
 function initClient() {
-  var API_KEY = '';  // TODO: Update placeholder with desired API key.
+  var API_KEY = 'AIzaSyCYw3dtvdpaX390d7BAhU5GE_eL2TLnlMs';  // TODO: Update placeholder with desired API key.
 
   var CLIENT_ID = '.apps.googleusercontent.com';  // TODO: Update placeholder with desired client ID.
 
